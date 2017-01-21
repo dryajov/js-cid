@@ -39,7 +39,7 @@
     "multihashes": "^0.3.1"
   },
   "devDependencies": {
-    "aegir": "^9.3.2",
+    "aegir": "^9.3.3",
     "chai": "^3.5.0",
     "multihashing-async": "^0.3.0",
     "pre-commit": "^1.2.2"
